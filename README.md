@@ -1,3 +1,3 @@
 # react-auto-template
 
-`curl -s -L https://raw.githubusercontent.com/monzoor/react-auto-template/master/react | bash`
+`curl -s -L https://raw.githubusercontent.com/arnab-shuvo/react-auto-template/master/react | bash`
